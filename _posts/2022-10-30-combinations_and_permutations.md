@@ -99,5 +99,5 @@ in fact $$(n - r)!$$.
 So if we want $$nPr$$ we can divide by $$(n - r)!$$ to cancel all of those terms.
 
 $$
-nPr = \frac{n! = n * (n-1) * (n-2) * ... * (n - r + 1) * (n - r) * (n - r - 1) * (n - r - 2) * ... * (2) * (1)}{(n - r) * (n - r - 1) * (n - r - 2) * ... * (2) * (1)} = \frac{n!}{(n - r)!}
+nPr = \frac{n * (n-1) * (n-2) * ... * (n - r + 1) * (n - r) * (n - r - 1) * (n - r - 2) * ... * (2) * (1)}{(n - r) * (n - r - 1) * (n - r - 2) * ... * (2) * (1)} = \frac{n!}{(n - r)!}
 $$
