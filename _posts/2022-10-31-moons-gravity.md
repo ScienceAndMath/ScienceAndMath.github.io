@@ -46,3 +46,5 @@ $$
 Math it all out and you get
 
 $$a_{moon} = 1.6233\ ms^{-2}$$
+
+This is about 1/6 of the earth's gravity.
